@@ -31,7 +31,7 @@
     {{/sass}}
     {{#less}}
     "less"":"*",
-    "less-loader":"*"
+    "less-loader":"*"，
     {{/less}}
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
