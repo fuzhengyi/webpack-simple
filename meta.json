@@ -25,9 +25,9 @@
        "message": "Use sass?",
        "default": false
     },
-    "router":{
+    "less":{
         "type": "confirm",
-        "message": "Use vue-router?",
+        "message": "Use less?",
         "default": false
     }
   },
