@@ -31,12 +31,12 @@
         "default": false
     },
     "axios":{
-        "type": "确认信息",
+        "type": "confirm",
         "message": "使用axios不？",
         "default": false
     },
     "lib-flexible":{
-        "type": "确认信息",
+        "type": "confirm",
         "message": "使用淘宝flexible布局不？",
         "default": true
     }
