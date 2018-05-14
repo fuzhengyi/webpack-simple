@@ -27,7 +27,7 @@
     },
     "router":{
         "type": "confirm",
-        "message": "Use router?",
+        "message": "Use vue-router?",
         "default": false
     }
   },
