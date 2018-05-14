@@ -34,11 +34,6 @@
         "type": "confirm",
         "message": "使用axios不？",
         "default": false
-    },
-    "lib-flexible":{
-        "type": "confirm",
-        "message": "使用淘宝flexible布局不？",
-        "default": true
     }
   },
   "completeMessage": "{{#inPlace}}To get started:\n\n  npm install\n  npm run dev{{else}}To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm run dev{{/inPlace}}"
