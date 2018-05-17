@@ -22,17 +22,22 @@
     },
     "sass": {
        "type": "confirm",
-       "message": "Use sass?",
+       "message": "使用sass吗?",
        "default": false
     },
     "less":{
         "type": "confirm",
-        "message": "Use less?",
+        "message": "使用less吗?",
         "default": false
     },
     "axios":{
         "type": "confirm",
         "message": "使用axios不？",
+        "default": false
+    },
+    "lib-flexible":{
+        "type": "confirm",
+        "message": "是否使用移动端淘宝布局方案",
         "default": false
     }
   },
