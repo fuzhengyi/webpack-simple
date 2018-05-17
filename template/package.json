@@ -17,6 +17,12 @@
     {{#lib-flexible}}
     "lib-flexible":"*",
     {{/lib-flexible}}
+     {{#vue-router}}
+    "vue-router":"*",
+    {{/vue-router}}
+     {{#vuex}}
+    "vuex":"*",
+    {{/vuex}}
   },
   "browserslist": [
     "> 1%",
